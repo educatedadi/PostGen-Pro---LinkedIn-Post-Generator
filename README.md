@@ -56,7 +56,11 @@ Local Storage
 - Saved
 - Settings & Auth
 
-[Placeholder: 4‑up screen grid]
+<img width="211" height="425" alt="Screenshot 2026-02-10 195910" src="https://github.com/user-attachments/assets/9fe8c3bf-1680-4637-b6a7-841f6b285558" />
+<img width="212" height="465" alt="Screenshot 2026-02-10 204128" src="https://github.com/user-attachments/assets/7db8186c-9c87-4ed1-a3d5-b0531e555ec9" />
+<img width="217" height="469" alt="Screenshot 2026-02-10 204150" src="https://github.com/user-attachments/assets/f5f73689-f549-4d3c-a5dc-393003d93a05" />
+<img width="217" height="467" alt="Screenshot 2026-02-10 204210" src="https://github.com/user-attachments/assets/ea9928b1-160c-4580-8980-5646a9a45206" />
+
 
 ## Notes
 This repo emphasizes product‑grade UX, clean component architecture, and a pragmatic path from anonymous usage to authenticated engagement.
