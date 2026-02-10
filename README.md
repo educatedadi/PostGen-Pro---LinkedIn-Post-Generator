@@ -12,7 +12,7 @@ An AI‑powered LinkedIn post generator focused on speed, polish, and thoughtful
 - **Crisp, mobile‑first UI** built with shadcn/ui and Tailwind.
 - **Resilient error handling** for rate limits and AI credit exhaustion.
 
-![Feature Strip](https://github.com/user-attachments/assets/b950cd8b-6927-4889-a5ad-c5a84078df54)
+[![Feature Strip Placeholder](https://img.shields.io/badge/Feature%20Strip-Placeholder-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 ## Product Walkthrough
 1. **Compose**: Choose a topic and tone for your LinkedIn post.
