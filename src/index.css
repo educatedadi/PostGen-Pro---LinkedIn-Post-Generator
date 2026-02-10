@@ -1,0 +1,98 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* PostGen Pro Design System - Mobile-first dark theme */
+
+@layer base {
+  :root {
+    --background: 210 20% 97%;
+    --foreground: 210 40% 11%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 210 40% 11%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 210 40% 11%;
+
+    --primary: 201 85% 50%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 210 20% 93%;
+    --secondary-foreground: 210 30% 30%;
+
+    --muted: 210 20% 96%;
+    --muted-foreground: 210 15% 46%;
+
+    --accent: 201 60% 94%;
+    --accent-foreground: 201 96% 32%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 210 20% 88%;
+    --input: 210 20% 88%;
+    --ring: 201 85% 50%;
+
+    --radius: 0.75rem;
+
+    /* Card surfaces */
+    --surface: 0 0% 100%;
+    --surface-elevated: 210 20% 99%;
+  }
+
+  .dark {
+    --background: 200 35% 10%;
+    --foreground: 200 20% 96%;
+
+    --card: 200 30% 14%;
+    --card-foreground: 200 20% 96%;
+
+    --popover: 200 30% 14%;
+    --popover-foreground: 200 20% 96%;
+
+    --primary: 201 85% 50%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 200 25% 20%;
+    --secondary-foreground: 200 20% 80%;
+
+    --muted: 200 25% 18%;
+    --muted-foreground: 200 15% 55%;
+
+    --accent: 200 25% 20%;
+    --accent-foreground: 201 60% 70%;
+
+    --destructive: 0 62.8% 45%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 200 25% 22%;
+    --input: 200 25% 22%;
+    --ring: 201 85% 50%;
+
+    /* Card surfaces - dark */
+    --surface: 200 30% 14%;
+    --surface-elevated: 200 28% 12%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground font-sans antialiased;
+    min-height: 100dvh;
+  }
+}
+
+@layer utilities {
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}
