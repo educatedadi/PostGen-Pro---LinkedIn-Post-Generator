@@ -12,7 +12,12 @@ An AI‑powered LinkedIn post generator focused on speed, polish, and thoughtful
 - **Crisp, mobile‑first UI** built with shadcn/ui and Tailwind.
 - **Resilient error handling** for rate limits and AI credit exhaustion.
 
-[![Feature Strip Placeholder](https://img.shields.io/badge/Feature%20Strip-Placeholder-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Gemini Prompts](https://img.shields.io/badge/Gemini%20Prompts-Structured%20Output-4285F4?style=for-the-badge&logo=google&logoColor=white)](#)
+[![Supabase Auth](https://img.shields.io/badge/Supabase%20Auth-Google%20Sign%20In-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)](#)
+[![Usage Gating](https://img.shields.io/badge/Usage-Gating%20%26%20Upgrade-0F172A?style=for-the-badge&logo=shield&logoColor=white)](#)
+[![History & Saved](https://img.shields.io/badge/History%20%26%20Saved-Local%20Persistence-334155?style=for-the-badge&logo=files&logoColor=white)](#)
+[![Mobile UI](https://img.shields.io/badge/UI-Mobile%20First-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)](#)
+[![Resilient Errors](https://img.shields.io/badge/Resilience-Rate%20Limit%20Handling-F97316?style=for-the-badge&logo=bolt&logoColor=white)](#)
 
 ## Product Walkthrough
 1. **Compose**: Choose a topic and tone for your LinkedIn post.
